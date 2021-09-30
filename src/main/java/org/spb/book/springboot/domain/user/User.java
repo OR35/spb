@@ -5,7 +5,6 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import org.spb.book.springboot.domain.BaseTimeEntity;
 
-import javax.management.relation.Role;
 import javax.persistence.*;
 
 @Getter
